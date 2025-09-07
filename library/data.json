@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Lucky Star",
+    "preview": "https://archive.org/services/img/lucky-star-complete-series",
+    "type": "series",
+    "genres": ["Comedy", "Slice of Life", "School", "Fantasy", "Adventure", "Shounen", "Romance", "Drama"],
+    "episodes": [
+      "https://archive.org/embed/lucky-star-complete-series/Lucky+Star+EP.1.360p.mp4",
+      "https://archive.org/embed/lucky-star-complete-series/Lucky+Star+EP.2.360p.mp4",
+      "https://archive.org/embed/lucky-star-complete-series/Lucky+Star+EP.3.360p.mp4",
+      "https://archive.org/embed/lucky-star-complete-series/Lucky+Star+Episode+4.mp4",
+      "https://archive.org/embed/lucky-star-complete-series/Lucky+Star+Episode+5.mp4",
+      "https://archive.org/embed/lucky-star-complete-series/Lucky+Star+Episode+6.mp4",
+      "https://archive.org/embed/lucky-star-complete-series/Lucky+Star+Episode+7.mp4",
+      "https://archive.org/embed/lucky-star-complete-series/Lucky+Star+EP.8.360p.mp4",
+      "https://archive.org/embed/lucky-star-complete-series/Lucky+Star+EP.9.360p.mp4",
+      "https://archive.org/embed/lucky-star-complete-series/Lucky+Star+EP.10.360p.mp4",
+      "https://archive.org/embed/lucky-star-complete-series/Lucky+Star+Episode+11.mp4",
+      "https://archive.org/embed/lucky-star-complete-series/Lucky+Star+Episode+12.mp4",
+      "https://archive.org/embed/lucky-star-complete-series/Lucky+Star+Episode+13.mp4",
+      "https://archive.org/embed/lucky-star-complete-series/Lucky+Star+Episode+14.mp4",
+      "https://archive.org/embed/lucky-star-complete-series/Lucky+Star+Episode+15.mp4",
+      "https://archive.org/embed/lucky-star-complete-series/Lucky+Star+Episode+16.mp4",
+      "https://archive.org/embed/lucky-star-complete-series/Lucky+Star+Episode+17.mp4",
+      "https://archive.org/embed/lucky-star-complete-series/Lucky+Star+Episode+18.mp4",
+      "https://archive.org/embed/lucky-star-complete-series/Lucky+Star+Episode+19.mp4",
+      "https://archive.org/embed/lucky-star-complete-series/Lucky+Star+Episode+20.mp4",
+      "https://archive.org/embed/lucky-star-complete-series/Lucky+Star+Episode+21.mp4",
+      "https://archive.org/embed/lucky-star-complete-series/Lucky+Star+Episode+22.mp4",
+      "https://archive.org/embed/lucky-star-complete-series/Lucky+Star+Episode+23.mp4",
+      "https://archive.org/embed/lucky-star-complete-series/Lucky+Star+Episode+24+(FINAL+EPISODE).mp4"
+    ]
+  },
+  {
+    "title": "Frankenstein 1931 colorized",
+    "preview": "https://archive.org/services/img/frankenstein-1931-colorized",
+    "type": "movie",
+    "genres": ["Action","Fantasy","Adventure","Horror","Sci-Fi","Drama","Thriller","Mystery"],
+    "episodes": [
+      "https://archive.org/embed/frankenstein-1931-colorized"
+    ]
+  }
+]
