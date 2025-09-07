@@ -1,0 +1,13 @@
+  			"Comedy",
+			"Fantasy",
+			"Adventure",
+			"Drama",
+			"Action",
+			"Shounen",
+			"Slice of Life",
+			"School",
+			"Romance",
+			"Horror",
+			"Sci-Fi",
+			"Thriller",
+			"Mystery"
